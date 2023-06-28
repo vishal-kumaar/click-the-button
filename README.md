@@ -1,5 +1,5 @@
 # ⭐ Project - Click the button ⭐
-🔗 [Project Link](https://button-to-click.netlify.app/ "Click me") <br>
+🔗 [Project Link](https://vishal-kumaar.github.io/click-the-button/ "Click me") <br>
 
 This is javascript project given in the **Ineuron's Full Stack JavaScript Development Bootcamp**.
 
